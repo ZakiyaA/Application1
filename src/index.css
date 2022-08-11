@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+body {
+  margin: 0;
+  background-color: rgb(245, 245, 237);
+  font-family: 'Poppins', sans-serif;
+ 
+}
+
+.container {
+  width: 90%;
+  min-height: 500px;
+  background-color: white;
+  border-radius: 6px ;
+  margin: 20px auto ;
+  padding: 30px;
+}
+.main-nav {
+  display: flex;
+  height: 80px;
+  width: 100%;
+  margin: auto ;
+  box-shadow: 0 5px 2px -2px rgb(238, 234, 234);
+}
+
+.logo {
+  float: left;
+  margin: 20px 20px;
+}
+
+.testimonial {
+  display: flex;
+  flex-direction: column;
+}
+
+.grid {
+  width: 80%;
+  margin: 30px auto;
+}
+
+/* .content {
+  padding: 30px;
+} */
+
+.content-header {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 110%;
+}
+
+.content-body {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 110%;
+  width: 60%;
+}
+
+.course {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 110%;
+}
+.card-lists {
+  display: flex;
+  align-content: space-between;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.card {
+  position: relative;
+  width: 200px;
+  flex: 0 0 auto;
+  flex-direction: column;
+}
+
+.badge {
+  position: absolute;
+  width: 70px;
+  height: 20px;
+  top:10px;
+  left: 6px;
+  padding: 2px;
+  border-radius: 5px;
+  background-color: white;
+  font-size: small;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.card img {
+  width: 176px;
+  height: 235px;
+}
+
