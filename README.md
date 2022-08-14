@@ -1,3 +1,10 @@
+## HomePage
+
+!["HomePage"](https://github.com/ZakiyaA/travel-journal/blob/main/src/images/Screenshot%202022-08-12%20at%2012-41-28%20Travel_Info.png?raw=true)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
