@@ -1,6 +1,6 @@
 ## HomePage
 
-!["HomePage"](https://github.com/ZakiyaA/travel-journal/blob/main/src/images/Screenshot%202022-08-12%20at%2012-41-28%20Travel_Info.png?raw=true)
+!["HomePage"](https://https://github.com/ZakiyaA/Application1/blob/main/src/images/homePge.png?raw=true)
 
 
 
